@@ -13,5 +13,7 @@ namespace TestWPF
     /// </summary>
     public partial class App : Application
     {
+        string test1 = "Test 1";
+        string test2 = "Test 2";
     }
 }
